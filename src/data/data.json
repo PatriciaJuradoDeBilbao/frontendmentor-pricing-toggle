@@ -1,0 +1,24 @@
+[
+  {
+    "type": "Basic",
+    "monthly": "19.99",
+    "yearly": "199.99",
+    "price": "",
+    "characteristics": ["500 GB Storage", "2 Users Allowed", "Send up to 3 GB"],
+    "action": "LEARN MORE"
+  },
+  {
+    "type": "Professional",
+    "monthly": "24.99",
+    "yearly": "249.99",
+    "characteristics": ["1 TB Storage", "5 Users Allowed", "Send up to 10 GB"],
+    "action": "LEARN MORE"
+  },
+  {
+    "type": "Master",
+    "monthly": "39.99",
+    "yearly": "399.99",
+    "characteristics": ["2 TB Storage", "10 Users Allowed", "Send up to 20 GB"],
+    "action": "LEARN MORE"
+  }
+]
